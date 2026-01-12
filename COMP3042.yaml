@@ -1,0 +1,16 @@
+# 注意：此 README 文件为模板，除课程代码和名称外，其他所有字段（如授课教师、关于考试等）均为空或为占位符。
+course_name: "智能证券投资"
+course_code: "COMP3042"
+notices: ""
+grading: {}
+teachers:
+  - name: "（教师名）"
+    reviews: []
+textbooks: []
+online_resources: []
+about_course: []
+about_exam: []
+study_advice: []
+schedule: []
+related_links: []
+misc: []

@@ -1,0 +1,77 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 554,
+    "time": 1794022892,
+    "hash": "6828f4d1d62740c104b2aad458ca5bdac6594d1a"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1754241363,
+    "hash": "29d9ae16ef7d42d9b61e6d6171a8dd7391fe354f"
+  },
+  "README.md": {
+    "size": 71,
+    "time": 1791273866,
+    "hash": "531d9883f2b7019cd9d880dd41f0388194d64ae2"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1754241363,
+    "hash": "29d9ae16ef7d42d9b61e6d6171a8dd7391fe354f"
+  },
+  "assignments/18_s3.docx": {
+    "size": 214636,
+    "time": 1755969565,
+    "hash": "765c73cfa0e582de69a30e87553457a3479def1c"
+  },
+  "assignments/18_第二章作业.docx": {
+    "size": 17491,
+    "time": 1755969565,
+    "hash": "765c73cfa0e582de69a30e87553457a3479def1c"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1754241363,
+    "hash": "29d9ae16ef7d42d9b61e6d6171a8dd7391fe354f"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1754241363,
+    "hash": "29d9ae16ef7d42d9b61e6d6171a8dd7391fe354f"
+  },
+  "labs/18_天使投资人_experiment1.docx": {
+    "size": 699851,
+    "time": 1755969565,
+    "hash": "765c73cfa0e582de69a30e87553457a3479def1c"
+  },
+  "labs/18_天使投资人_experiment2.docx": {
+    "size": 605835,
+    "time": 1755969565,
+    "hash": "765c73cfa0e582de69a30e87553457a3479def1c"
+  },
+  "labs/18_天使投资人_experiment4.pdf": {
+    "size": 1080188,
+    "time": 1755969565,
+    "hash": "765c73cfa0e582de69a30e87553457a3479def1c"
+  },
+  "labs/18_天使投资人_experiment6.pdf": {
+    "size": 631402,
+    "time": 1755969565,
+    "hash": "765c73cfa0e582de69a30e87553457a3479def1c"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1754241363,
+    "hash": "29d9ae16ef7d42d9b61e6d6171a8dd7391fe354f"
+  },
+  "readme.toml": {
+    "size": 81,
+    "time": 1791273883,
+    "hash": "436918f336c8fd35202afde27246d635d9231177"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1754241363,
+    "hash": "29d9ae16ef7d42d9b61e6d6171a8dd7391fe354f"
+  }
+}
